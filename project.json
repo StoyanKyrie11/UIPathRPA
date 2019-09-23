@@ -1,6 +1,6 @@
 {
-  "name": "IntroBot",
-  "description": "First demo bot using UI Path RPA platform",
+  "name": "GuessingGame",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.6.3]",
